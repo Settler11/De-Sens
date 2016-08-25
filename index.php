@@ -3,7 +3,7 @@
 Plugin Name: De S&S plugin
 Plugin URI: http://www.sensmarketing.nl/
 Description: Login portaal en instellingen!
-Version: 1.3.1
+Version: 1.4
 Author: Wilbert
 Author URI: http://www.sensmarketing.nl
 License: GPLv2
